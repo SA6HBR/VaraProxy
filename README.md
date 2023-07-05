@@ -1,5 +1,7 @@
 # VaraProxy
 
+Pre release. Under construction  :)
+
 ## Useful Links
 
 * [Download latest](https://github.com/SA6HBR/VaraProxy/files/11959366/Release.zip)
