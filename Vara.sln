@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaraDummy", ".\VaraDummy\VaraDummy.csproj", "{3FF7140D-F100-4D79-80CA-4DC2B8BFA2E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaraProxy", ".\VaraProxy\VaraProxy.csproj", "{73FDC1FC-3532-49E4-922F-F0969FFF3A42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF7140D-F100-4D79-80CA-4DC2B8BFA2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF7140D-F100-4D79-80CA-4DC2B8BFA2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF7140D-F100-4D79-80CA-4DC2B8BFA2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF7140D-F100-4D79-80CA-4DC2B8BFA2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73FDC1FC-3532-49E4-922F-F0969FFF3A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FDC1FC-3532-49E4-922F-F0969FFF3A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FDC1FC-3532-49E4-922F-F0969FFF3A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FDC1FC-3532-49E4-922F-F0969FFF3A42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3D9E58-31C2-4192-B6B4-1AAF7B4DB0C9}
+	EndGlobalSection
+EndGlobal

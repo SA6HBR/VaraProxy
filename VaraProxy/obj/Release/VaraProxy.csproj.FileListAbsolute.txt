@@ -1,0 +1,6 @@
+C:\___GitHub\VaraProxy\bin\Release\VaraProxy.ini
+C:\___GitHub\VaraProxy\bin\Release\VaraProxy.exe
+C:\___GitHub\VaraProxy\bin\Release\VaraProxy.pdb
+C:\___GitHub\VaraProxy\VaraProxy\obj\Release\VaraProxy.csproj.CoreCompileInputs.cache
+C:\___GitHub\VaraProxy\VaraProxy\obj\Release\VaraProxy.exe
+C:\___GitHub\VaraProxy\VaraProxy\obj\Release\VaraProxy.pdb

@@ -1,0 +1,9 @@
+C:\___GitHub\VaraProxy\bin\Release\Vara.exe
+C:\___GitHub\VaraProxy\bin\Release\Vara.pdb
+C:\___GitHub\VaraProxy\VaraDummy\obj\Release\VaraDummy.csproj.AssemblyReference.cache
+C:\___GitHub\VaraProxy\VaraDummy\obj\Release\VaraDummy.Form1.resources
+C:\___GitHub\VaraProxy\VaraDummy\obj\Release\Vara.Properties.Resources.resources
+C:\___GitHub\VaraProxy\VaraDummy\obj\Release\VaraDummy.csproj.GenerateResource.cache
+C:\___GitHub\VaraProxy\VaraDummy\obj\Release\VaraDummy.csproj.CoreCompileInputs.cache
+C:\___GitHub\VaraProxy\VaraDummy\obj\Release\Vara.exe
+C:\___GitHub\VaraProxy\VaraDummy\obj\Release\Vara.pdb
